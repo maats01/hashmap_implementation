@@ -1,6 +1,6 @@
 ﻿# Hashmap em Python
 
-Este projeto implementa a estrutura de dados `Hashmap` com listas encadeadas para resolução de colisões, suporte a `rehashing` dinâmico e tem testes utilizando `unittest`.
+Este projeto implementa a estrutura de dados `Hashmap` com listas encadeadas para resolução de colisões, suporte a `rehashing` dinâmico e com cobertura de testes utilizando `unittest`.
 
 ## Requisitos
 
