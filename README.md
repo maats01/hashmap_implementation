@@ -5,7 +5,7 @@ Este projeto implementa a estrutura de dados `Hashmap` com listas encadeadas par
 ## Requisitos
 
 - Python 3.7+
-- numpy (instalado via `requirements.txt`)
+- numpy
 
 ## Executando o programa
 ### 1. Clonar o repositório
